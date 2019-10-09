@@ -7,9 +7,12 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "xpress": "^2.4.6"
   },
   "devDependencies": {
     "nodemon": "^1.19.3"
-  }
+  },
+  "repository": "https://github.com/mprrdti/cardmember.git",
+  "author": "mprrdti <mprrdti@gmail.com>"
 }
